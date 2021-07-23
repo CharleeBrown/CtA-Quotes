@@ -5,3 +5,13 @@
     font-size:30px;
     font-family: 'Tourney', cursive;
 }
+.jumbotron{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 17%, rgba(5,92,32,1) 44%, rgba(249,255,0,1) 74%); 
+    color:white;
+    font-family: 'Tourney';
+    
+}
+#title{
+    font-size:40px;
+}
