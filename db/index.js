@@ -1,5 +1,5 @@
-var fs = require('fs');
-var http = require('http');
+let fs = require('fs');
+let http = require('http');
 
 
 http.createServer(function (req, res) {
